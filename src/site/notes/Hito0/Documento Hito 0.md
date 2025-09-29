@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hito0/documento-hito-0/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/hito0/documento-hito-0/"}
 ---
 
 # Cartas
