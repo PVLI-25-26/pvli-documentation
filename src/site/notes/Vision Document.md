@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vision-document/"}
+{"dg-publish":true,"permalink":"/vision-document/","tags":["gardenEntry"]}
 ---
 
 `<concept-preview.png>`
