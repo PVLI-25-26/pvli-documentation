@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game-design-document/system-and-mechanics/systems/combat-system/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/game-design-document/system-and-mechanics/systems/combat-system/"}
 ---
 
 **Combat System** – a core system that encompasses all mechanics related to dealing damage to enemies and avoiding damage from them.
