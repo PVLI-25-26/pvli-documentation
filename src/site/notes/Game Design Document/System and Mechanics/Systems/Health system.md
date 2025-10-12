@@ -11,7 +11,7 @@ When the player's health reaches 0, the player dies and returns to the HUB, loos
 
 ![HealthSystemExample.png](/img/user/Game%20Design%20Document/Images/HealthSystemExample.png)
 
-Health is recovered when the player returns to the HUB, by dying or [[Game Design Document/System and Mechanics/Mechanincs/Enter and exit the dungeon\|exiting the dungeon]].
+Health is recovered when the player returns to the HUB, by dying or [[Game Design Document/System and Mechanics/Mechanincs/Exploration Mechanics/Enter and exit the dungeon\|exiting the dungeon]].
 Health can also be recovered by consuming items which recover the player's health.
 
 ## Dynamics 

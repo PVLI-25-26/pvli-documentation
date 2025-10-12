@@ -11,7 +11,7 @@
  - Arrows (Two types of arrows)
  - Skills
 
-Coins are persistent between runs, meaning that they are not lost when the player dies or begins a new run. Coins are obtained by selling [[Game Design Document/System and Mechanics/Mechanincs/Item\|items]] when [[Game Design Document/System and Mechanics/Mechanincs/Enter and exit the dungeon\|exiting the dungeon]].
+Coins are persistent between runs, meaning that they are not lost when the player dies or begins a new run. Coins are obtained by selling [[Game Design Document/System and Mechanics/Mechanincs/Item Mechanics/Consumable items\|items]] when [[Game Design Document/System and Mechanics/Mechanincs/Exploration Mechanics/Enter and exit the dungeon\|exiting the dungeon]].
 
 As the player obtains items and improves, he will also gain more gold, allowing him to obtain better items. ([[Vision Document#Game Loop\|Game Loop]])
 If the player runs out of gold, he will always have a basic loadout for free with the most basic items. This ensures that the player can always recover himself from big losses and represents the base point of the equipment progression.
@@ -25,4 +25,4 @@ When the player enters the dungeon, he risks loosing all of his equipment if he 
 This also enhances the tension throughout the run, as dying would mean loosing the items bought at the beginning.
 
 ## Included mechanics
-- [[Game Design Document/System and Mechanics/Mechanincs/Selling objects\|Selling objects]]
+- [[Game Design Document/System and Mechanics/Mechanincs/Item Mechanics/Selling items\|Selling items]]

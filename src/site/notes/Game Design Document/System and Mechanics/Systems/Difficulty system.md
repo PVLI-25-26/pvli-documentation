@@ -14,6 +14,5 @@ This gives the player an interesting risk and reward choices to make, as dying w
 ## Related systems
 - [[Game Design Document/System and Mechanics/Systems/Dungeon exploration system\|Dungeon exploration system]]
 ## Included mechanics
-- [[Game Design Document/System and Mechanics/Mechanincs/Enemies difficulty\|Enemies difficulty]]
-- [[Game Design Document/System and Mechanics/Mechanincs/Items value specs\|Items value specs]]
-- [[Game Design Document/System and Mechanics/Mechanincs/Difficulty counter mechanic\|Difficulty counter mechanic]]
+- [[Game Design Document/System and Mechanics/Mechanincs/Enemy Mechanics/Enemies difficulty\|Enemies difficulty]]
+- [[Game Design Document/System and Mechanics/Mechanincs/Item Mechanics/Item progression\|Item progression]]

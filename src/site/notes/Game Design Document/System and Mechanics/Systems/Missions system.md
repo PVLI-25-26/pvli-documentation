@@ -21,5 +21,4 @@ Missions help give players a secondary objective within the run besides killing 
 When encountering an NPC, the player must decide whether it is worth completing the mission offered by the NPC or not, or whether the mission goals align somewhat with his own personal goals.
 
 ## Included mechanics
-- [[Game Design Document/System and Mechanics/Mechanincs/Missions mechanic\|Missions mechanic]]
 - [[Game Design Document/System and Mechanics/Systems/Dialogue system\|Dialogue system]]
