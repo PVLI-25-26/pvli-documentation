@@ -10,4 +10,4 @@ When the player interacts with a path, the current scene is unloaded and the sce
 
 Paths references are defined previously.
 ## Related Systems
-- [[Game Design Document/System and Mechanics/Systems/Dungeon map system\|Dungeon map system]]
+- [[Game Design Document/System and Mechanics/Systems/Dungeon exploration system\|Dungeon exploration system]]

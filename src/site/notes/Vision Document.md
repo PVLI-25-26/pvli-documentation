@@ -31,17 +31,29 @@ Dialogue with NPCs reveals the story and provides guidance, while responsive mov
 
 
 ## Game Loop 
-`<Game loop description>`
+The game has a simple yet effective game loop:
+1. Enter the dungeon with an equipment loadout.
+2. Loot, explore and fight to obtain items, and exit alive from the dungeon to obtain gold.
+3. Use the gold to buy better equipment and go to step 1.
 
-## Features
+``` mermaid
+flowchart TD
 
-### Feature 1
-`...`
+    A[Enter the dungeon] -->|Fight and explore with equipment| B[Obtain valuable items]
 
-### Feature 2
-`...`
+    B --> |Exit the dungeon to obtain gold|C[Buy better equipment]
+
+    C --> A
+```
+
 
 
 ## References
 
-`<List of references>`
+[Hades](https://store.steampowered.com/app/1145360/Hades/) by Supergiant Games
+
+[Noita](https://store.steampowered.com/app/881100/Noita/) by Nolla Games
+
+[Dark and Darker](https://www.darkanddarker.com/) by Iron Mace
+
+[Titan Souls](https://store.steampowered.com/app/297130/Titan_Souls/?l=spanish) by Acid Nerve
