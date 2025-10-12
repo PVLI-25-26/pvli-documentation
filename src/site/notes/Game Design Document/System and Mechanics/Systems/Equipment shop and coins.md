@@ -6,10 +6,9 @@
 
 ## Description
  Before a run, the player can buy the equipment he wishes to use with coins. The stronger the equipment, the more coins needed to buy it.
- The player can buy only 3 types of items for the next run (Look at their use in [[Game Design Document/System and Mechanics/Systems/Combat System\|Combat System]]):
+ The player can buy only 2 types of items for the next run (Look at their use in [[Game Design Document/System and Mechanics/Systems/Combat System\|Combat System]]):
  - Bows (Arrows trajectories)
  - Arrows (Two types of arrows)
- - Skills
 
 Coins are persistent between runs, meaning that they are not lost when the player dies or begins a new run. Coins are obtained by selling [[Game Design Document/System and Mechanics/Mechanincs/Item Mechanics/Consumable items\|items]] when [[Game Design Document/System and Mechanics/Mechanincs/Exploration Mechanics/Enter and exit the dungeon\|exiting the dungeon]].
 

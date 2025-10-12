@@ -8,4 +8,4 @@ The difficulty increases with each level for all the enemies (bosses and small e
 Each enemy has a set of three stats, one for each level. This gives us more flexibility in designing the areas.
 #TODO
 ## Related Systems
--[[Game Design Document/System and Mechanics/Systems/Difficulty system\|Difficulty system]]
+- [[Game Design Document/System and Mechanics/Systems/Difficulty system\|Difficulty system]]

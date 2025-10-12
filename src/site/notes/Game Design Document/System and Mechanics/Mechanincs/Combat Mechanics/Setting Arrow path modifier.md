@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/game-design-document/system-and-mechanics/mechanincs/combat-mechanics/setting-arrow-path-modifier/"}
 ---
 
-**Setting Arrow Path Modifier** – a mechanic that allows the player to alter the trajectory and behavior of projectiles after they are fired. It is used to adjust the area of effect, control coverage, or introduce tactical variety in ranged combat.
+**Setting Arrow Path Modifier** – a mechanic that allows the player to alter the trajectory and behavior of projectiles after they are fired. 
 ## Description
-The player can equip two active arrow path modifier before entering the magical realm.  
+The player can equip two active arrow path modifier before entering the magical realm ([[Game Design Document/System and Mechanics/Systems/Equipment shop and coins\|Equipment shop and coins]]).  
 This modifier changes the flight pattern of all fired projectiles, overriding the default arched trajectory and adding unique behavior.  
-Modifiers can alter the number of projectiles, their spread, bounce behavior, and travel distance.
+Modifiers can alter the number of projectiles, their spread, bounce behavior, and travel distance. It is used to adjust the area of effect, control coverage, or introduce tactical variety in ranged combat.
 
 Only one path modifier can be active at a time, encouraging players to adapt their loadout to different enemy types and environments.
 

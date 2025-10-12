@@ -22,3 +22,4 @@ When encountering an NPC, the player must decide whether it is worth completing 
 
 ## Included mechanics
 - [[Game Design Document/System and Mechanics/Systems/Dialogue system\|Dialogue system]]
+- [[Game Design Document/System and Mechanics/Mechanincs/Mission Mechanics/NPCs\|NPCs]]
