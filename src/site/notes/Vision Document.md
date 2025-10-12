@@ -36,6 +36,8 @@ The game has a simple yet effective game loop:
 2. Loot, explore and fight to obtain items, and exit alive from the dungeon to obtain gold.
 3. Use the gold to buy better equipment and go to step 1.
 
+The objective of the player is to beat the dungeon's boss and win the game. Depending on the player's skill and knowledge, this could take many runs to achieve.
+
 ![GameLoop.png](/img/user/Game%20Design%20Document/Images/GameLoop.png)
 
 

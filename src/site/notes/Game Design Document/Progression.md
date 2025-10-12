@@ -4,4 +4,4 @@
 
 `<Progression order in the game>`
 # Game Loop
-![GameLoop.png](/img/user/Game%20Design%20Document/Images/GameLoop.png)
+![Game Design Document/Images/GameLoop.png](/img/user/Game%20Design%20Document/Images/GameLoop.png)
