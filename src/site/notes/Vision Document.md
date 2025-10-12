@@ -36,15 +36,8 @@ The game has a simple yet effective game loop:
 2. Loot, explore and fight to obtain items, and exit alive from the dungeon to obtain gold.
 3. Use the gold to buy better equipment and go to step 1.
 
-``` mermaid
-flowchart TD
+![GameLoop.png](/img/user/Game%20Design%20Document/Images/GameLoop.png)
 
-    A[Enter the dungeon] -->|Fight and explore with equipment| B[Obtain valuable items]
-
-    B --> |Exit the dungeon to obtain gold|C[Buy better equipment]
-
-    C --> A
-```
 
 
 
