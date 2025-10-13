@@ -38,7 +38,7 @@ The game has a simple yet effective game loop:
 
 The objective of the player is to beat the dungeon's boss and win the game. Depending on the player's skill and knowledge, this could take many runs to achieve.
 
-![GameLoop.png](/img/user/Game%20Design%20Document/Images/GameLoop.png)
+![GameLoop.png](/img/user/Game%20Design%20Document/Images/Examples/GameLoop.png)
 
 
 

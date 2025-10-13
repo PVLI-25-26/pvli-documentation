@@ -15,4 +15,3 @@
 ![[BossDraw.PNG]]
 #### Small enemies room sketch:
 ![[SmallEnemiesDraw.PNG]]
-
